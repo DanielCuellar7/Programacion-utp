@@ -1,0 +1,18 @@
+
+
+--Resumen de la compra--
+ Acción: Compras
+ cod producto: 2
+ Producto: Samsung
+ Unidades: 3
+ Valor de la unidad: 2000
+ Medio de pago: Efectivo
+ Total venta: 6000
+--Resumen de la compra--
+ Acción: Compras
+ cod producto: 1
+ Producto: Iphone
+ Unidades: 1
+ Valor de la unidad: 1000
+ Medio de pago: Efectivo
+ Total venta: 1000

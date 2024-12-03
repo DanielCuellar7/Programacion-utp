@@ -1,0 +1,8 @@
+--Resumen--
+ Acción: Venta
+ cod producto: 3
+ Producto: Xiaomi
+ Unidades: 2
+ Valor de la unidad: 1000
+ Medio de pago: Tarjeta
+ Total venta: 2000
